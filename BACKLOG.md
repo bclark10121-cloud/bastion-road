@@ -8,7 +8,6 @@ Updated 2026-11-20. BC decides the order.
 
 ## Now
 
-- Sign and publish 0.1: the APK, the public page repo bclark10121-cloud/bastion-road and the Game Shelf card. Needs a session with game-signing and repo creation allowed.
 - BC plays 0.1 and sends feel notes.
 
 ## Asked for by BC, not built yet
