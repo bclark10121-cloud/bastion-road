@@ -4,20 +4,25 @@ Updated 2026-11-20. BC decides the order.
 
 ## Done
 
+- 0.3.0 The look (2026-11-20): painted jungle Landing Zone, toy render towers at three levels and robots, sounds, Heroic Age and Movement Proposition, Audiowide start screen with the painted map, new icon.
+
 - 0.2.0 Foundation and the fight (2026-11-20): new fixed-step battle core, data files, four towers with three levels (Blaster, Drone Bay, Arc Coil, Mortar), guard drones that block with a movable flag, armor and shields, five robots (Crawler, Scuttler, Plated Walker, Warden, Hover Drone), two landings with beacons and wave previews, 10 waves, two-tap build ring, new-robot cards, build pop, hit flash, credit pops, landscape only.
 
 - 0.1.0 gray box (2026-11-20): Landing Zone with eight pads and a forked road. Blaster and Mortar at level 1. Crawlers and Scuttlers over six waves. Credits, lives, defeat and Retry, victory with stars, early wave bonus, 1x and 2x speed, Easy, Normal and Hard, Xbox controller pad cursor and build ring, map turns a quarter when held upright.
 
 ## Now
 
-- BC plays 0.2 and sends feel notes, mostly on the Drone Bay, the two-tap ring and difficulty.
-- Next: 0.3 The look (painted Landing Zone, toy render towers and robots, sounds, battle music). Plan v2: `ideas/n14/PLAN.md` in game-studio.
+- BC plays 0.3 and sends notes on the look and feel.
+- Next: 0.4 Hero. Plan v2: `ideas/n14/PLAN.md` in game-studio.
 
 - BC plays 0.1 and sends feel notes.
 
 ## Asked for by BC, not built yet
 
-- 0.3 The look: painted map, toy render through Gemini and Meshy on decision pages, sounds, start screen font and Patch.gg music, battle music, full name check (G4.8).
+- Future levels on the other two worlds from the 0.3 decision page (BC, 2026-11-20: "I like all 3 worlds"): a red desert at golden hour (concept `art_src/gemini/map_a_desert.png`) and an icy moon at dusk with an aurora (`art_src/gemini/map_b_ice.png`). Fits the campaign (0.7 and later): one world per group of levels.
+
+- Meshy models baked to sprites for turning turrets and walk cycles (0.3 used cut-out Gemini sprites).
+- Full name check for Bastion Road (G4.8), before a wider release.
 - 0.4 Hero. 0.5 Spells (Orbital Strike, Drop Pod) and level 4 branches. 0.6 Full robot roster and Robot Log. 0.7 Campaign map. 0.8 Stars and challenges. 1.0 six levels.
 - After the MVP: heroes first (BC, 2026-11-20).
 - No bosses, just waves (BC, 2026-11-20).
@@ -35,6 +40,10 @@ Updated 2026-11-20. BC decides the order.
 ## Not planned (they break the pillars)
 
 ## Decisions from BC
+
+- 2026-11-20, 4:32 PM: "I like all 3 worlds add the other 2 to the backlog for future releases." Desert and icy moon added for later levels.
+
+- 2026-11-20, 4:32 PM, 0.3 look picks: world C jungle planet in daylight, title font Audiowide, start screen music Heroic Age, battle music Movement Proposition.
 
 - 2026-11-20, 3:51 PM: "start .2". Picks for plan v2: landscape only, fight first, keep Blaster, Drone Bay, Arc Coil and Mortar, 6 levels for 1.0.
 
