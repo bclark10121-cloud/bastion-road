@@ -1,8 +1,10 @@
 # Bastion Road: backlog
 
-Updated 2026-11-20. BC decides the order.
+Updated 2026-11-21. BC decides the order.
 
 ## Done
+
+- 0.3.1 Fix and balance (2026-11-21): leak tint fades, music loops, Arc Coil chain fixed, five pads moved onto live road with a map test, rebalance so no single tower wins Hard, gentler wave 2, swarm wave 8, early calls pay double, supply drop each wave, outpost horn, final wave horn, win and defeat stings.
 
 - 0.3.0 The look (2026-11-20): painted jungle Landing Zone, toy render towers at three levels and robots, sounds, Heroic Age and Movement Proposition, Audiowide start screen with the painted map, new icon.
 
@@ -12,10 +14,16 @@ Updated 2026-11-20. BC decides the order.
 
 ## Now
 
-- BC plays 0.3 and sends notes on the look and feel.
-- Next: 0.4 Hero. Plan v2: `ideas/n14/PLAN.md` in game-studio.
+- BC plays 0.3.1 and sends notes.
+- Build the 0.3.1 APK and refresh the Game Shelf card (this session had no access to game-signing or the Shelf repo).
+- Next: 0.4 Alive. Plan v3: `ideas/n14/PLAN_v3.md` in game-studio.
+- Picks waiting on BC for 0.4: wide phones until the repaint (crop a little, soft edges or wait) and level length (10 waves or 12 to 14).
 
-- BC plays 0.1 and sends feel notes.
+## Plan v3 order (BC, 2026-11-21: "move forward with your suggested changes in the order you suggest")
+
+1. 0.4 Alive: engine room (bench, golden hash, richer events, split play.gd), fill the screen, motion with the current sprites, units that pop, intro, wave, victory and defeat screens, teach by doing, more sounds, stars per difficulty.
+2. 0.5 The frame: icon HUD, icon build ring, aiming Blaster head, ambient map life and foreground, 21:9 map repaint with the outpost, robot portraits, jungle sound bed, calm prep track, view on pooled nodes.
+3. 0.6 Hero with Drop Pod. 0.7 New robots and the Robot Log. 0.8 Orbital Strike and level 4 branches. 0.9 Campaign. 1.0 six levels.
 
 ## Asked for by BC, not built yet
 
@@ -23,7 +31,7 @@ Updated 2026-11-20. BC decides the order.
 
 - Meshy models baked to sprites for turning turrets and walk cycles (0.3 used cut-out Gemini sprites).
 - Full name check for Bastion Road (G4.8), before a wider release.
-- 0.4 Hero. 0.5 Spells (Orbital Strike, Drop Pod) and level 4 branches. 0.6 Full robot roster and Robot Log. 0.7 Campaign map. 0.8 Stars and challenges. 1.0 six levels.
+- Release order now follows plan v3 (see above). Meshy sprite baking is skipped for now in favor of layered cutouts moved by code.
 - After the MVP: heroes first (BC, 2026-11-20).
 - No bosses, just waves (BC, 2026-11-20).
 
@@ -40,6 +48,8 @@ Updated 2026-11-20. BC decides the order.
 ## Not planned (they break the pillars)
 
 ## Decisions from BC
+
+- 2026-11-21, 8:48 AM: "move forward with your suggested changes in the order you suggest" (plan v3). Picks 1A order, 3C Arc Coil both fixes, 4A musical stingers for tower voices. Picks 2 and 5 still open.
 
 - 2026-11-20, 4:32 PM: "I like all 3 worlds add the other 2 to the backlog for future releases." Desert and icy moon added for later levels.
 
