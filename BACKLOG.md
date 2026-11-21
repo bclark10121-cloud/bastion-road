@@ -15,7 +15,6 @@ Updated 2026-11-21. BC decides the order.
 ## Now
 
 - BC plays 0.3.1 and sends notes.
-- Build the 0.3.1 APK and refresh the Game Shelf card (this session had no access to game-signing or the Shelf repo).
 - Next: 0.4 Alive. Plan v3: `ideas/n14/PLAN_v3.md` in game-studio.
 - Picks waiting on BC for 0.4: wide phones until the repaint (crop a little, soft edges or wait) and level length (10 waves or 12 to 14).
 
